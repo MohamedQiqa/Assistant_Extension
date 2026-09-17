@@ -1,4 +1,4 @@
-# Ninja Social Media AI Assistant - Project Description
+# Ninja Social Media AI Assistant - Project Description 
 
 ## Project Overview
 The Ninja Social Media AI Assistant is a Chrome extension with a client-server architecture designed to enhance social media engagement for Ninja delivery app in Saudi Arabia. The extension allows social media managers to quickly generate on-brand responses for comments, mentions, and direct messages on social platforms (particularly X/Twitter) using OpenAI's GPT-4.1 model.
